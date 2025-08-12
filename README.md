@@ -86,7 +86,6 @@ npm start
 
 ---
 
-## 📸 Screenshots  
 
 
 ---
